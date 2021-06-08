@@ -1,0 +1,3 @@
+@Imports API_REST_Ejemplo.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
